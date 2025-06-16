@@ -1,4 +1,4 @@
-# The Japanese translation pack for SonarQube (Forked from The Chinese translation pack for SonarQube)
+# The Japanese translation pack for SonarQube
 
 This project provides a **Japanese translation pack** for SonarQube.
 
